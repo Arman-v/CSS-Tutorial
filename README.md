@@ -11,7 +11,7 @@ CSS Tutorial
   - Code must be neat and properly indented
   - A link that opens up in another tab
   - 2 images, and at least one must have a border, and at least one image must be downloaded 
-  - A nested list 
+  - A nested list (using the unordered and ordered list tags)
   - A table with at least 3 rows and 3 columns
   - An external style sheet (must be properly linked to the html file)
   - Import at least one font from google fonts and utilize various font sizes, families
