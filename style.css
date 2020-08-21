@@ -1,0 +1,31 @@
+
+.list-background-color {
+	background-color: #66D3FA;
+	width: 400px;
+	padding: 5px;
+}
+
+body{
+	background-color: #D5F3FE;
+}
+
+.larger-image {
+	width: 300px;
+}
+
+.thick-blue-border {
+	border-color: #0F5298;
+	border-width: 5px;
+	border-style: solid;
+}
+
+.main-title {
+        color: #064771;
+	font-size: 30px;
+	font-family: Lobster, Helvetica;
+	font-weight: normal;
+}
+p, a, h2, ul {
+	font-weight: normal;
+	font-family: Verdana;
+}
