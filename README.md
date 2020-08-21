@@ -16,7 +16,9 @@ CSS Tutorial
 - An external style sheet (must be properly linked to the html file)
 - Import at least one font from google fonts and utilize various font sizes, families
 - Website must have a background color that isn’t white, and it must have some kind of color Scheme to make it look aesthetically pleasing (use hex (#) color) HINT: search up “hex color palettes”)
+  
 2. You must upload a repository to Github under our FTC-Dream-Machines organization 
 https://github.com/FTC-Dream-Machines
 - Near “Customize pins” Click “New” → make sure it says “FTC-Dream-Machines” under Owner → fill out all the info → make sure its public, not private → initialize with README → - Click Create Repository. 
+
 3. Look at the HTML, CSS (this) Slides, and Github videos for help. You can always reach out to me on hangouts or email (anahitarhassan@gmail.com) for help. Good Luck!
