@@ -1,12 +1,13 @@
 
+body{
+	background-color: #D5F3FE;
+	text-align: center;
+}
+
 .list-background-color {
 	background-color: #66D3FA;
 	width: 400px;
 	padding: 5px;
-}
-
-body{
-	background-color: #D5F3FE;
 }
 
 .larger-image {
